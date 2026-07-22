@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vishwasaravan/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vishwasaravan/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishwasaravan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vishwasaravan/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -83,8 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vishwasaravan/leetcode/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
