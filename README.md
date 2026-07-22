@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vishwasaravan/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vishwasaravan/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vishwasaravan/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishwasaravan/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vishwasaravan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -44,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vishwasaravan/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishwasaravan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vishwasaravan/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
