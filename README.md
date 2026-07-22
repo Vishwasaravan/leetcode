@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vishwasaravan/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vishwasaravan/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vishwasaravan/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vishwasaravan/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vishwasaravan/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
