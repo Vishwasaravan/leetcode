@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishwasaravan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vishwasaravan/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vishwasaravan/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vishwasaravan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vishwasaravan/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vishwasaravan/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -183,8 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishwasaravan/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishwasaravan/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
