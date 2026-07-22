@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vishwasaravan/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vishwasaravan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vishwasaravan/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
