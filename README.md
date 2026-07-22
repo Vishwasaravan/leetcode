@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vishwasaravan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vishwasaravan/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Vishwasaravan/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vishwasaravan/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishwasaravan/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Vishwasaravan/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Sorting
 |  |
 | ------- |
