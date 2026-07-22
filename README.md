@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vishwasaravan/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vishwasaravan/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Vishwasaravan/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vishwasaravan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishwasaravan/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Vishwasaravan/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Vishwasaravan/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vishwasaravan/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Vishwasaravan/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
