@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vishwasaravan/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vishwasaravan/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwasaravan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vishwasaravan/leetcode/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vishwasaravan/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vishwasaravan/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
 ## Stack
 |  |
 | ------- |
@@ -300,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Vishwasaravan/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
