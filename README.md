@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vishwasaravan/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Vishwasaravan/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishwasaravan/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vishwasaravan/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vishwasaravan/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vishwasaravan/leetcode/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
