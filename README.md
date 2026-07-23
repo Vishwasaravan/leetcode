@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vishwasaravan/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Vishwasaravan/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwasaravan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vishwasaravan/leetcode/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Vishwasaravan/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
