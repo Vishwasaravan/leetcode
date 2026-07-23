@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Vishwasaravan/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Vishwasaravan/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishwasaravan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vishwasaravan/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vishwasaravan/leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Vishwasaravan/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vishwasaravan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
