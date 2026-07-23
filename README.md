@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishwasaravan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishwasaravan/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0682-baseball-game](https://github.com/Vishwasaravan/leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vishwasaravan/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vishwasaravan/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0867-transpose-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Vishwasaravan/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Vishwasaravan/leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
