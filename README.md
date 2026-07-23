@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Vishwasaravan/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vishwasaravan/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vishwasaravan/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Vishwasaravan/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vishwasaravan/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwasaravan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vishwasaravan/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Vishwasaravan/leetcode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vishwasaravan/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Vishwasaravan/leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
