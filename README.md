@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Vishwasaravan/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Vishwasaravan/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Vishwasaravan/leetcode/tree/master/1929-concatenation-of-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Vishwasaravan/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Vishwasaravan/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Vishwasaravan/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Vishwasaravan/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Vishwasaravan/leetcode/tree/master/1929-concatenation-of-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vishwasaravan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishwasaravan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vishwasaravan/leetcode/tree/master/0206-reverse-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -332,4 +336,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Vishwasaravan/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Vishwasaravan/leetcode/tree/master/1122-relative-sort-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
