@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Vishwasaravan/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Vishwasaravan/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Vishwasaravan/leetcode/tree/master/0509-fibonacci-number) |
+| [1447-simplified-fractions](https://github.com/Vishwasaravan/leetcode/tree/master/1447-simplified-fractions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vishwasaravan/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Vishwasaravan/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Vishwasaravan/leetcode/tree/master/0709-to-lower-case) |
+| [1447-simplified-fractions](https://github.com/Vishwasaravan/leetcode/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
 | ------- |
@@ -352,4 +354,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vishwasaravan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Vishwasaravan/leetcode/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Vishwasaravan/leetcode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Vishwasaravan/leetcode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
